@@ -5,7 +5,7 @@ HTML Structure: I've used HTML to create the structure of my application. This l
 
 CSS Styling: CSS is used to style my application, making it visually appealing and user-friendly. Ans I also  used Bootstrap, a popular CSS framework, to help with styling and responsiveness.
 
-JavaScript Logic: Here's how I've likely used it:
+JavaScript Logic: Here's how I've likely used it:-
 
 Adding Tasks: I have JavaScript code that handles adding tasks when I click an "Add" button. This code may create new HTML elements (list items) to represent the tasks and append them to the task list.
 

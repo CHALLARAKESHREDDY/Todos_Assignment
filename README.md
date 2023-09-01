@@ -13,4 +13,4 @@ Deleting Tasks: When I click a "Delete" button next to a task, my JavaScript cod
 
 Saving Tasks: Saving tasks might involve storing them in some way, like in the browser's local storage, so that the tasks persist even if I refresh the page.
 
-User Interaction: JavaScript handles user interactions, like clicking buttons and inputting text. Event listeners are often used to respond to these interactions.
+
